@@ -1,6 +1,6 @@
 # Google Play Store Data Analysis (EDA)
 
-This repository contains a comprehensive analysis of the **Google Play Store Apps** dataset, which includes **10,841 rows** and **14 columns**. The dataset provides insights into various aspects of apps on the Google Play Store, such as ratings, reviews, installs, size, price, and more. The goal of this analysis is to explore the data and uncover trends and patterns that can be useful for understanding the app market.
+This repository contains a comprehensive analysis of the **Google Play Store Apps** dataset, which includes **10,841 rows** and **13 columns**. The dataset provides insights into various aspects of apps on the Google Play Store, such as ratings, reviews, installs, size, price, and more. The goal of this analysis is to explore the data and uncover trends and patterns that can be useful for understanding the app market.
 
 ---
 
@@ -21,7 +21,6 @@ The dataset consists of the following **14 columns**:
 11. **Last Updated**: The date when the app was last updated.
 12. **Current Version**: The current version of the app.
 13. **Android Version**: The minimum Android version required for the app.
-14. **Unnamed: 0**: This column serves as an identifier and is necessary for the analysis.
 
 ---
 
